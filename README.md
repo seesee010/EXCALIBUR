@@ -5,9 +5,11 @@
 
 ## What is EXCALIBUR?
 
-Excalibur is an shortcuts script for Visual Studio Code!
-In there you can write own shortcut script for any language you want, like that here.
-This project is giving you faster HTML typing speed, by using some usefull shortcuts. This script is best for students or people always must write on the same shema!
+Excalibur is a shortcut script for Visual Studio Code!
+In there, you can write your own shortcut script for any language you want, like this one here.
+This project increases your HTML typing speed by using useful shortcuts.
+This script is best for students or people who always have to write in the same schema!
+
 
 ## Quickstart
 
@@ -27,7 +29,7 @@ To use this script use following steps!
     CTRL + P
     ```
 
-     Then if there is no `>` in before, type that in, and you should see a lots of new text. Type:
+     Then if there is no `>` before, type that in, and you should see a lots of new text. Type:
 
     ```shell
     Preferences: Code Extensions >
