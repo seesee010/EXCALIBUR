@@ -37,6 +37,6 @@ To use this script use following steps!
 
     and then Enter. 
 
-    Last steps are typing `html.json` and copying the shortcut script!
+    Last steps are typing `html.json`, Enter, and `STRG + V` or `CTRL + V` your copied test!
 
-3. Done!
+4. Done!
