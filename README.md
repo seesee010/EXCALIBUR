@@ -1,3 +1,4 @@
 # EXCALIBUR-VSC
 
-[License](README.md)
+[README](README.md)
+[License](LICENSE)
