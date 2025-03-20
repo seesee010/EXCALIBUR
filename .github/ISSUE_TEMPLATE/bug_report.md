@@ -10,7 +10,11 @@ assignees: ''
 ********** What is your bug? **********
 Type: (how can the bug be reproduced, step by step)
 
+Text Text
+
 ********** What you thought of should happen? **********
+
+Text Text
 
 ********** If you have any screenshots, here: **********
 Type: (don't forget about which device you used to create this bug!
@@ -20,5 +24,7 @@ Simple guidline:
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+
+Text Text
 
 Thank you user!
