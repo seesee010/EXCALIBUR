@@ -29,7 +29,7 @@ To use this script use following steps!
     CTRL + P
     ```
 
-     Then if there is no `>` before, type that in, and you should see a lots of new text. Type:
+     Then if there is no `>`, type that in, and you should see a lots of new text. Type:
 
     ```shell
     Preferences: Code Extensions >
