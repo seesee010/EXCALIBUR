@@ -5,31 +5,21 @@
 
 ## What is EXCALIBUR?
 
-Excalibur is a shortcut script for Visual Studio Code!
-In there, you can write your own shortcut script for any language you want, like this one here.
-This project increases your HTML typing speed by using useful shortcuts.
-This script is best for students or people who always have to write in the same schema!
-
+Excalibur is a script for writing a lot faster with templates. HTML Templates.
 
 ## Quickstart
 
-To use this script use following steps!
+It is very simple to use, just belong on the steps given!
 
 1. download the folder with the file in it named `.vscode`
 
-2. open your Visual Studio Code and press following shortcut on keyboard:
+2. open vsc ```Visual Studio Code``` press:
 
     ```shell
     STRG + P
     ```
 
-    or if you don't have an `STRG`, press following combination:
-
-    ```shell
-    CTRL + P
-    ```
-
-     Then if there is no `>`, type that in, and you should see a lots of new text. Type:
+     Then a little cli line will pop up, type
 
     ```shell
     Preferences: Code Extensions >
@@ -37,6 +27,12 @@ To use this script use following steps!
 
     and then Enter. 
 
-    Last steps are typing `html.json`, Enter, and `STRG + V` or `CTRL + V` your copied script!
+    Copy Paste Excalibur in that file
 
 4. Done!
+## Commands
+
+A short wiki of all commands possible
+
+Like Minecraft you need to write commands using '/' ```slash```
+
