@@ -30,7 +30,7 @@ It is very simple to use, just belong on the steps given!
     Copy Paste Excalibur in that file
 
 4. Done!
-### Commands
+# Commands
 
 A short wiki of all commands possible
 
