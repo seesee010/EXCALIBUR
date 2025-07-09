@@ -95,7 +95,7 @@ SOFTWARE.
 	  "HTML Basic structure - 1": {
 		"prefix": "/1",
 		"body": [
-		  "\n<!-- \n    FirstName LastName\n        Class\n       ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} | Q1 ${CURRENT_YEAR}\n -->\n",
+		  "\n<!-- \n    FirstName LastName\n        MoreData\n       ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} | Q1 ${CURRENT_YEAR}\n -->\n",
 		  "<!DOCTYPE html>",
 		  "<html lang=\"en\">",
 		  "  <head>",
@@ -124,7 +124,7 @@ SOFTWARE.
 //********** characters **********
 
 	 "Typing space -normal": {
-	  "prefix": "/space",
+	  "prefix": "/space-normal",
 	  "body": [
 		 "&nbsp;",
 	  ],
@@ -138,25 +138,9 @@ SOFTWARE.
 	  ],
 	  "description": "Thin space character"
 	},
-   
-	"Arrow to the right": {
-	  "prefix": "/char arrow-right",
-	  "body": [
-		 "&rarr;",
-	  ],
-	  "description": "arrow to the right character"
-	},
-   
-	"Hearts": {
-	  "prefix": "/char hearts",
-	  "body": [
-		 "&hearts;",
-	  ],
-	  "description": "hearts character"
-	},
-   
+
 	"Copyright": {
-	  "prefix": "/char copyright",
+	  "prefix": "/copyright",
 	  "body": [
 		 "&copy;",
 	  ],
