@@ -30,7 +30,7 @@ SOFTWARE.
 //********** Basic struct **********
 
 	"Help": {
-	  "prefix": ["/excalibur help"],
+	  "prefix": ["/help","/excalibur help"],
 	  "body": [
 		"!                                                                             ",
 		"!                                                                             ",
